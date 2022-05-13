@@ -18,6 +18,6 @@ En esta base de datos se puede encontrar información acerca de los costos de lo
 - María Fernanda Elizalde Macías A01634135
 - Ariadna Minerva Solís Naranjo A01639943
 - Jairo Barrera Hernández A01276795
-- Jorge Carrillo Castro
+- Jorge Carrillo Castro A01634630
 - Salvador Fernando Camacho Hernández A01634777
 
