@@ -8,5 +8,5 @@ En esta base de datos se puede encontrar información acerca de los costos de lo
 - Región 
 - Pagos realizados al seguro _(charges)_
 
-#Archivo presentado
+# Archivo presentado
 - Copia_de_linear_regresion.ipynb
