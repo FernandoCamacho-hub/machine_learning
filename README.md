@@ -14,3 +14,4 @@ En esta base de datos se puede encontrar información acerca de los costos de lo
 # Integrantes
 - Joshua S. Hernandez Reza  A01246538
 - Luis Paulo Flores Arzate  A01275194
+- María Fernanda Elizalde Macías A01634135
