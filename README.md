@@ -15,3 +15,8 @@ En esta base de datos se puede encontrar información acerca de los costos de lo
 - Joshua S. Hernandez Reza  A01246538
 - Luis Paulo Flores Arzate  A01275194
 - María Fernanda Elizalde Macías A01634135
+- Ariadna Minerva Solís Naranjo A01639943
+- Jairo Barrera Hernández A01276795
+- Jorge Carrillo Castro
+- Salvador Fernando Camacho Hernández A01634777
+
