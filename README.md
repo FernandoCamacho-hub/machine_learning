@@ -10,3 +10,6 @@ En esta base de datos se puede encontrar información acerca de los costos de lo
 
 # Archivo presentado
 - Copia_de_linear_regresion.ipynb
+
+# Integrantes
+- Joshua S. Hernandez Reza  A01246538
